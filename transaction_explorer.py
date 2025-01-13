@@ -6,7 +6,7 @@ from solathon import PublicKey
 SOLANA_RPC_URL = 'https://api.mainnet-beta.solana.com'
 
 # Публичный ключ кошелька, который вы хотите отслеживать
-PUBLIC_KEY = '46F4WsqP2rwNqFYJRk6ef1hXiw5JpRW8TtKzsHEPpK6r'
+PUBLIC_KEY = ''
 pubkey = PublicKey(PUBLIC_KEY)
 
 # Хранилище для уже просмотренных подписей транзакций
